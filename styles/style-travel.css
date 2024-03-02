@@ -372,15 +372,15 @@ main{
 
 }
 
-/* .discount{
+.discount{
   width: 324px;
   height: 120px;
   border-radius: 16px;
   background: #FF5400;
   text-align: center;
   transform: rotate(-15deg) translate(850px, 50%);
-  transform: rotate(-19.628deg);
-} */
+  /* transform: rotate(-19.628deg); */
+}
 
 .discount h3{
   color: #FFF;

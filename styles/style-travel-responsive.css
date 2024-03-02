@@ -94,13 +94,13 @@
   .discount-offer img{
     padding: 20px;
   }
-  /* .discount{
+  .discount{
     width: 195px;
     height: 100px;
     border-radius: 16px;
     transform: rotate(-18deg) translate(200px, -90%);
     position: sticky;
-  } */
+  }
   .discount h3{
     font-size: 22px;
   }
