@@ -27,7 +27,7 @@
   }
   
   .banner-container .banner-title {
-    font-size: 40px;
+    font-size: 30px;
     margin-top: 10px;
   }
 
@@ -55,8 +55,8 @@
     padding: 20px;
   }
 
-  .destination-content .section-title{
-    font-size: 28px;
+  .destination-content, .section-title{
+    font-size: 25px;
   }
   .destination-content{
     margin: 0;
